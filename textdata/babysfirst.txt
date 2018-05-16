@@ -1,0 +1,7 @@
+<option>Please select an ornament</option>
+<option>Rocking Horse (Purple)</option>
+<option>Rocking Horse (Yellow)</option>
+<option>Teddy Bear (Red)</option>
+<option>Teddy Bear (Blue)</option>
+<option>Teddy Bear (Pastel)</option>
+<option>Teddy Bear (Pink)</option>

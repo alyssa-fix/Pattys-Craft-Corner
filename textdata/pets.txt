@@ -1,0 +1,4 @@
+<option>Please select an ornament</option>
+<option>Friends Fur-Ever (Blue)</option>
+<option>Friends Fur-Ever (Pink)</option>
+<option>Horse Profile (Bay)</option>

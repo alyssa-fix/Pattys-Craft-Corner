@@ -1,0 +1,22 @@
+<option>Please select an ornament</option>
+<option>Valentines - Be Mine</option>
+<option>Valentines Day</option>
+<option>Valentines - Love</option>
+<option>Happy Easter - Bunny (Purple)</option>
+<option>Happy Easter - Basket (Blue)</option>
+<option>Happy Easter - Egg (Yellow)</option>
+<option>St. Patricks Day - Pot of Gold</option>
+<option>St. Patricks Day - Luck of the Irish</option>
+<option>July 4th - Freedom</option>
+<option>July 4th - Land of the Free</option>
+<option>July 4th - U.S.A.</option>
+<option>Happy Halloween - Black Cat</option>
+<option>Happy Halloween - Spider</option>
+<option>Happy Halloween - Trick or Treat</option>
+<option>Crisp Days of Fall - Leaf (Golden)</option>
+<option>Crisp Days of Fall - Acorns (Green)</option>
+<option>Autumn Leaves - Leaf (Rust)</option>
+<option>Give Thanks - Pumpkin</option>
+<option>Turkey - For This I Am Thankful</option>
+<option>Let It Snow - Snowflake</option>
+<option>Let It Snow - Snowman</option>

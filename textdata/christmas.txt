@@ -1,0 +1,9 @@
+<option>Please select an ornament</option>
+<option>Santa - Ho Ho Ho (Red)</option>
+<option>Santa - Ho Ho HO (Green)</option>
+<option>Merry Christmas - Drum</option>
+<option>Merry Christmas - Stocking</option>
+<option>Merry Christmas - Candle</option>
+<option>Merry Christmas - Reindeer</option>
+<option>Merry Christmas - Cardinal</option>
+<option>Toy Soldiers</option>

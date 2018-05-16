@@ -1,0 +1,3 @@
+<option>Please select an ornament</option>
+<option>Fireman</option>
+<option>Policeman</option>
